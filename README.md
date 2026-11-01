@@ -1,8 +1,9 @@
-<h1 align="center">I'm Ammar Arab</h1>
-<p align="center"><strong>Software Engineer · Full Stack Developer</strong><br>Web &amp; Mobile · Amman, Jordan</p>
+<h1 align="center">Ammar Arab</h1>
+<p align="center"><strong>Software Engineer · Full Stack Developer</strong></p>
+<p align="center">Turning complex problems into practical web and mobile software.</p>
 
 <p align="center">
-  <a href="https://portfolio.ammararab.com">Portfolio</a> &nbsp;·&nbsp;
+  <a href="https://portfolio.ammararab.com"><strong>Portfolio</strong></a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/0ammar">LinkedIn</a> &nbsp;·&nbsp;
   <a href="mailto:0ammararab0@gmail.com">Email</a> &nbsp;·&nbsp;
   <a href="https://wa.me/962788482930">WhatsApp</a>
@@ -12,30 +13,53 @@
 
 ### About me
 
-I'm a full stack developer with **3 years of experience** building web and mobile applications, from responsive interfaces to APIs and databases. I work primarily with **TypeScript, React, Next.js, React Native, and Node.js**, with additional experience in **ASP.NET Core and C#**.
+I'm a **Full Stack Developer based in Amman, Jordan**, with **3 years of experience** building software people use every day—from learning platforms and clinic systems to mobile inventory applications deployed across multiple branches.
 
-I care about clean architecture, practical solutions, and software that works well for the people using it. My work includes learning platforms, multi-tenant healthcare software, volunteering tools, and production inventory systems.
+A **problem solver with deep knowledge of data structures and algorithm concepts**, I enjoy understanding how things work, finding the root cause of a problem, and turning that understanding into clear, maintainable solutions. I build across the stack: responsive interfaces, backend services, databases, real-time features, and native Android integrations.
 
-### Selected work
+My focus is on **clean architecture, thoughtful UI, and reliable performance**. Whether I'm improving a platform's mobile experience or making an older thermal printer work with a modern application, I care about delivering something useful and making it work well.
 
-- **[Youth Prints](https://www.youthprints.online/)** — A volunteering platform serving **1,100+ volunteers**, with activity management, automated certificates, and notifications.
-- **[Cureva](https://cureva.clinic/)** — A bilingual, multi-tenant clinic platform with real-time patient queues, scheduling, reporting, and secure access.
-- **Warehouse & inventory applications** — Contributed to a React Native app used by around **50 employees across 12 branches**, including barcode scanning, stock transfers, and native Android thermal printing.
-- **Learning management systems** — Building responsive registration flows and real-time dashboards at **Jo Academy**.
+### Work & impact
 
-### Technologies
+**Jo Academy · Frontend Development**  
+Made most of the learning platform responsive across mobile, tablet, and desktop. Worked on registration modules and main dashboard pages, improving layouts, usability, and consistency with React, TypeScript, and TanStack Query.
+
+**Native Android Printing Solution**  
+Built a thermal printing solution connecting a React Native inventory app to existing Bluetooth printers through native Android modules. Implemented bitmap processing and printer commands across multiple brands and protocols, including **CPCL, ZPL, and ESC/POS**. The solution kept existing hardware in use across **12 branches**, avoided replacement costs, and made label printing significantly faster.
+
+### Selected projects
+
+**[Volunteer Platform](https://www.youthprints.online/)**  
+Built a platform serving **1,100+ volunteers**, bringing together activity management, volunteer profiles, participation tracking, automated certificates, and notifications.  
+<sub>Next.js · TypeScript · PostgreSQL · Prisma · Cloudflare</sub>
+
+**[Clinic System](https://cureva.clinic/)**  
+Built a bilingual, multi-tenant clinic system with real-time patient queues, appointment scheduling, reports, and role-based access. Designed for Arabic and English, including RTL layouts.  
+<sub>NestJS · Next.js · TypeScript · PostgreSQL · WebSockets</sub>
+
+**Warehouse Management App**  
+Contributed to a production mobile app used by around **50 employees across 12 branches**, supporting barcode scanning, stock counts, inventory transfers, and native thermal printing.  
+<sub>React Native · TypeScript · SQLite · Redux · Native Android Modules</sub>
+
+### Tech stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs&perline=6" alt="TypeScript, JavaScript, React, Next.js, Node.js, and NestJS" />
 </p>
-<p>
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,postgres,prisma,mongodb,sqlite&perline=6" alt="ASP.NET Core, C#, PostgreSQL, Prisma, MongoDB, and SQLite" />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=tailwind,sass,docker,git,postman,figma&perline=6" alt="Tailwind CSS, Sass, Docker, Git, Postman, and Figma" />
-</p>
 
-**Also work with:** React Native · Expo · Express · Fastify · SQL Server · TanStack Query · Redux · Zustand · REST APIs · WebSockets
+| Area | Technologies |
+| --- | --- |
+| **Frontend** | React · Next.js · TypeScript · JavaScript · HTML · CSS · Tailwind CSS · SCSS |
+| **Mobile** | React Native · Expo · Native Android Modules · Bluetooth & Barcode Integrations |
+| **Backend** | Node.js · NestJS · Express · Fastify · ASP.NET Core · C# |
+| **Data** | PostgreSQL · SQL Server · MongoDB · SQLite · Prisma |
+| **State & real-time** | TanStack Query · Redux Toolkit · Zustand · WebSockets |
+| **Architecture & APIs** | Clean Architecture · DDD · MVC · REST APIs · JWT · NextAuth |
+| **Tools** | Git · GitHub · Docker · Postman · Figma |
+
+### How I work
+
+I use **Claude Code, Cursor, Antigravity, and Codex** in my daily development workflow to explore approaches, debug issues, refactor code, and speed up delivery. I review and validate the output, keeping ownership of the architecture, implementation, and final result.
 
 ---
 
